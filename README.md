@@ -7,6 +7,7 @@ Ce script PHP a été conçu pour simplifier la vie des développeurs travaillan
 - **Liste des versions disponibles :** Affiche toutes les versions de PrestaShop disponibles sur le dépôt GitHub.
 - **Téléchargement automatique :** Permet de télécharger la version sélectionnée de PrestaShop.
 - **Décompression optionnelle :** Offre la possibilité de décompresser automatiquement l'archive téléchargée.
+- **Affichage de votre version PHP + extensions** Affiche la version du PHP qui tourne actuellement sur votre serveur. Vérifiez que celui-ci est compatible avec le Prestashop que vous allez installer. Les extensions nécessaires sont aussi affichée & vérifiées.
 - **Redirection pour installation :** Propose une redirection vers `index.php` après décompression pour initier l'installation de PrestaShop.
 
 ## Prérequis
