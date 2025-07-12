@@ -14,8 +14,7 @@
  * @copyright PROGERANCE - Dubois Arnaud
  * @license   https://opensource.org/licenses/AFL-3.0  Academic Free License ("AFL") v. 3.0
  */
-?>
-<!DOCTYPE html>
+?><!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
